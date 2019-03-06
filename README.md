@@ -10,8 +10,8 @@ The project is aimed to render the realistic water by implementing the water ref
 * Add the G component of each pixel of the normal map and reduced the R and B components, so as to make the water surface fluctuate more vertically
 * Use time as a variable in the shader to control the sampling coordinates in each frame.
 
--R and B represent two directions parallel to the horizontal plane
--G represents the direction perpendicular to the horizontal plane.
+R and B represent two directions parallel to the horizontal plane<br>
+G represents the direction perpendicular to the horizontal plane.
 
 The Normal Map Used for Water Surface:
 <br><img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/The%20normal%20map.jpg"/><br>
