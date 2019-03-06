@@ -14,7 +14,7 @@ The project is aimed to render the realistic water by implementing the water ref
 - G represents the direction perpendicular to the horizontal plane.
 
 The Normal Map Used for Water Surface:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/The%20normal%20map)
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/The%20normal%20map.jpg)
 
 ### The water reflection
 * First, get the water reflection view texture by using RenderToTexture (RTT). RTT is used to obtain the reflection view texture by using the projection camera.
@@ -22,8 +22,8 @@ The Normal Map Used for Water Surface:
 * Finally, all UV coordinates are used to mixed the reflection view texture with water surface in the shading stage.
 
 The result of reflection of water:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original "without reflection.")
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Reflection "with reflection")
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original.jpg "without reflection.")
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Reflection.jpg "with reflection")
 
 ### The water refraction
 * Generate the corresponding view texture in the same way with reflection view texture.
@@ -31,12 +31,12 @@ The result of reflection of water:
 * Finally, the refraction view texture is mixed with the water surface and the shader can produce the refraction effect .
 
 The result of refraction of water:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction1 "with refraction")
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction2 "with refraction")
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction1.jpg "with refraction")
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction2.jpg "with refraction")
 
 ## Performance
 The performance of the realistic water rendering is as follow:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Result%20of%20Realistic%20water%20rendering "Perfomance")
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Result%20of%20Realistic%20water%20rendering.jpg "Perfomance")
 
 The dynamic display of the rendering:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Realistic%20water%20rendering)
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Realistic%20water%20rendering.mp4)
