@@ -22,7 +22,7 @@ The Normal Map Used for Water Surface:
 * Finally, all UV coordinates are used to mixed the reflection view texture with water surface in the shading stage.
 
 The result of reflection of water:<br>
-<img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original.jpg"/>&nbsp&nbsp&nbsp&nbsp
+<img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original.jpg"/>
 <img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Reflection.jpg"/>
 
 ### The water refraction
@@ -31,7 +31,7 @@ The result of reflection of water:<br>
 * Finally, the refraction view texture is mixed with the water surface and the shader can produce the refraction effect .
 
 The result of refraction of water:<br>
-<img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction1.jpg"/>&nbsp&nbsp&nbsp&nbsp
+<img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction1.jpg"/>
 <img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Water%20with%20Refraction2.jpg"/>
 
 ## Performance
