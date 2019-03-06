@@ -39,4 +39,4 @@ The performance of the realistic water rendering is as follow:<br>
 <img height="300" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Result%20of%20Realistic%20water%20rendering.jpg"/>
 
 The dynamic display of the rendering:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Realistic%20water%20rendering.mp4)
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Dynamic%20Performance.gif)
