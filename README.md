@@ -14,7 +14,7 @@ The project is aimed to render the realistic water by implementing the water ref
 - G represents the direction perpendicular to the horizontal plane.
 
 The Normal Map Used for Water Surface:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project-Photos/The-normal-map)
+![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project-Photos/The%20normal%20map)
 
 ### The water reflection
 * First, get the water reflection view texture by using RenderToTexture (RTT). RTT is used to obtain the reflection view texture by using the projection camera.
