@@ -14,16 +14,16 @@ The project is aimed to render the realistic water by implementing the water ref
 - G represents the direction perpendicular to the horizontal plane.
 
 The Normal Map Used for Water Surface:
-![](https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/The%20normal%20map.jpg)
+<br><div align=center><img height="200" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/The%20normal%20map.jpg"/><br>
 
 ### The water reflection
 * First, get the water reflection view texture by using RenderToTexture (RTT). RTT is used to obtain the reflection view texture by using the projection camera.
 * Then, each vertex on the water surface can acquire the UV of the reflection view texture.
 * Finally, all UV coordinates are used to mixed the reflection view texture with water surface in the shading stage.
 
-The result of reflection of water:
-<img width="150" height="150" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original.jpg"/>
-<img width="150" height="150" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Reflection.jpg"/>
+The result of reflection of water:<br>
+<div align=center><img height="200" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Original.jpg"/><br>
+<div align=center><img height="200" src="https://github.com/JiaoZhang-Amanda/Realistic-water-rendering/raw/master/Project%20Photos/Reflection.jpg"/>
 
 ### The water refraction
 * Generate the corresponding view texture in the same way with reflection view texture.
